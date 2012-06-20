@@ -1,0 +1,2 @@
+<?
+include('forum.module.php');
