@@ -23,7 +23,7 @@ Zend_Loader::loadClass('Zend_Config_Ini');
 Zend_Loader::loadClass('Zend_Db');
 Zend_Loader::loadClass('Zend_Acl');
 
-/** /
+/**/
 # Configuration Settings
 $config = new Zend_Config_Ini('../config.ini','production');
 
